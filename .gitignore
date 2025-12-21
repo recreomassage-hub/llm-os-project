@@ -1,0 +1,30 @@
+# LLM-OS System
+*.log
+*.tmp
+*.cache
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.env.local
+.secrets/
+
+# Reports
+reports/*.html
+reports/*.pdf
+
+# Temporary
+tmp/
+temp/
+
